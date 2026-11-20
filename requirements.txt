@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+# PyMOL is not on PyPI; install it from conda-forge first:
+#     conda install -c conda-forge pymol-open-source
+# Versions are the ones the benchmark was run with (PyMOL 3.1.0, Python 3.13).
+biopython>=1.87
+numpy>=2.0
+scikit-learn==1.9.0   # the version data/state_model.pkl was saved with
+requests>=2.30

@@ -1,0 +1,5 @@
+pdb_cache/
+gpcr_annotation_output/
+__pycache__/
+*.pyc
+.DS_Store
